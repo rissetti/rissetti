@@ -1,4 +1,9 @@
-## Hi there 👋
+# Olá, sou o professor Gustavo Rissetti! 
+## Bem vindo ao meu perfil GitHub 👋
+
+- 🔭 Atualmente sou professor de E.B.T.T. no Instituto Federal Farroupilha - Campus São Vicente do Sul.
+- 📫 Como entrar em contato comigo: gustavo.rissetti
+
 
 <!--
 **rissetti/rissetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
