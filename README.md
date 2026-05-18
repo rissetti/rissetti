@@ -15,9 +15,8 @@
 
 ## Estatísticas:
 <div>
-<a href="https://github.com/rissetti">
-<img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rissetti&layout=compact&langs_count=7&theme=shadow_green"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=rissetti&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/rissetti"><img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rissetti&layout=compact&langs_count=7&theme=shadow_green"/></a>
+<a href="https://github.com/rissetti"><img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=rissetti&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/></a>
 </div>
   
 <!--
